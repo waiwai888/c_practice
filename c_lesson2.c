@@ -36,12 +36,12 @@ int main (void){
   }
 
   // 3-5
-  // int e;
-  // printf("数値を入力してください");
-  // scanf("%d¥n", &e);
-  // if(20 <= e && e < 80){
-  //   printf("20以上80未満です");
-  // }
+  int e;
+  printf("数値を入力してください");
+  scanf("%d¥n", &e);
+  if(20 <= e && e < 80){
+    printf("20以上80未満です");
+  }
 
   // 3-6
   int n;
